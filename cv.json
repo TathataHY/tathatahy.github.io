@@ -1,0 +1,307 @@
+{
+  "basics": {
+    "name": "Andre Huaman Yovera",
+    "label": "Full Stack Developer con más de 3 años de experiencia especializado en desarrollo de aplicaciones web y móviles con .NET Xamarin",
+    "image": "https://c.wallhere.com/photos/1c/32/nikon_kyoto-408160.jpg!d",
+    "email": "andre.yovera1@gmail.com",
+    "phone": "+56 936159134",
+    "url": "https://midu.dev",
+    "summary": "Tengo 3 años de experiencia en desarrollo con .NET Xamarin y soluciones web. Soy un desarrollador Full Stack y me estoy especializando en Ciencia de Datos. Resido en Arica, Chile.",
+    "location": {
+      "address": "Esteban Alvarado 109",
+      "postalCode": "10000000",
+      "city": "Arica",
+      "countryCode": "CL",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Tathata",
+        "url": "https://www.linkedin.com/in/andre-huaman-yovera-676199210/"
+      },
+      {
+        "network": "Platzi",
+        "username": "midudev",
+        "url": "https://platzi.com/p/Tathata/"
+      },
+      {
+        "network": "GitHub",
+        "username": "tathatahy",
+        "url": "https://github.com/tathatahy"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OneUp-I",
+      "position": "Ingeniero en informática",
+      "url": "https://oneup-i.com/",
+      "startDate": "2021-01-02",
+      "endDate": null,
+      "summary": "Ingeniero en informática con experiencia en el desarrollo de soluciones en .NET para aplicaciones móviles, web y de escritorio. Además, he participado activamente en proyectos de desarrollo de sistemas en Java para web scraping.",
+      "highlights": [
+        "Desarrollo de soluciones en .NET para aplicaciones móviles, web y de escritorio",
+        "Participación en el desarrollo de sistemas en Java para web scraping"
+      ]
+    },
+    {
+      "name": "RyM Ingenieros",
+      "position": "Desarrollador móvil Xamarin",
+      "url": "https://www.rym.com.pe/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-08-01",
+      "summary": "Me centré en el desarrollo de aplicaciones móviles, especialmente en la integración y uso de Google Maps para aplicaciones tipo Indriver para mototaxis en Lima.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Santo Tomás",
+      "url": "https://www.ipsantotomas.cl/carreras/ingenieria-en-informatica/",
+      "area": "Ingeniería en Informática",
+      "studyType": "Ingeniería",
+      "startDate": "2020-01-02",
+      "endDate": "2023-01-02",
+      "score": "6.0",
+      "courses": ["CISCO - Basic SQL"]
+    },
+    {
+      "institution": "Platzi",
+      "area": "Tecnología y Desarrollo",
+      "studyType": "Cursos en línea",
+      "startDate": "2021-01-02",
+      "endDate": null,
+      "url": "https://platzi.com/p/Tathata/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Virtualización",
+        "Contenedores",
+        "Despliegue",
+        "Orquestación"
+      ]
+    },
+    {
+      "name": "Xamarin",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo de aplicaciones móviles",
+        ".NET",
+        "C#",
+        "Multiplataforma"
+      ]
+    },
+    {
+      "name": ".NET",
+      "level": "Avanzado",
+      "keywords": [
+        "Framework de desarrollo",
+        "Backend",
+        "Desarrollo de aplicaciones",
+        "C#",
+        "ASP.NET"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Atsa Airlines",
+      "isActive": true,
+      "description": "Plataforma de venta de boletos de vuelo.",
+      "highlights": ["Venta de boletos de vuelo"],
+      "url": "https://www.atsaairlines.com/"
+    },
+    {
+      "name": "eFTR StarPeru",
+      "isActive": true,
+      "description": "Sistema de bitácoras de vuelo para aviones.",
+      "highlights": [
+        "Registro de bitácoras de vuelo",
+        "Disponible en múltiples idiomas"
+      ],
+      "url": "https://apps.apple.com/us/app/eftr-starperu/id1640129105"
+    },
+    {
+      "name": "Sistema de Web Scraping para Datos de Farmacias",
+      "isActive": true,
+      "description": "Sistema automatizado para recopilar datos de farmacias desde sitios web.",
+      "highlights": [
+        "Recopilación automatizada de datos",
+        "Extracción de información de múltiples fuentes"
+      ],
+      "url": ""
+    },
+    {
+      "name": "App Charter ATSA Airlines",
+      "isActive": true,
+      "description": "Sistema de escritorio para la gestión de vuelos charter de ATSA Airlines, incluyendo reservas, check-in y valorizaciones de vuelos.",
+      "highlights": [
+        "Gestión integral de vuelos charter",
+        "Funciones de reservas y check-in",
+        "Generación de valorizaciones de vuelos"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Vamo.Pe",
+      "isActive": false,
+      "description": "Aplicación tipo Indriver para mototaxis en Lima.",
+      "highlights": ["Servicio de mototaxis", "Operativo en Lima"],
+      "url": ""
+    },
+    {
+      "name": "Platzi",
+      "isActive": true,
+      "description": "Plataforma educativa en línea para el aprendizaje de diversas habilidades tecnológicas y profesionales.",
+      "highlights": [
+        "Amplia variedad de cursos y especializaciones",
+        "Enfoque en desarrollo web, ciencia de datos y más"
+      ],
+      "url": "https://platzi.com"
+    }
+  ]
+}

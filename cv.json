@@ -199,6 +199,17 @@
       "keywords": ["Frontend", "JavaScript Library", "Mobile", "UI"]
     },
     {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend",
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Spring"  
+      ]
+    },
+    {
       "name": "Docker",
       "level": "Avanzado",
       "keywords": [

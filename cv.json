@@ -206,7 +206,7 @@
         "Java",
         "Spring Boot",
         "Spring Security",
-        "Spring"  
+        "Spring"
       ]
     },
     {
@@ -239,6 +239,11 @@
         "C#",
         "ASP.NET"
       ]
+    },
+    {
+      "name": "Json",
+      "level": "Avanzado",
+      "keywords": ["JSON", "Backend"]
     }
   ],
   "languages": [

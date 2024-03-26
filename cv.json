@@ -5,7 +5,7 @@
     "image": "https://c.wallhere.com/photos/1c/32/nikon_kyoto-408160.jpg!d",
     "email": "andre.yovera1@gmail.com",
     "phone": "+56 936159134",
-    "url": "https://midu.dev",
+    "url": "https://tathatahy.github.io/",
     "summary": "Tengo 3 años de experiencia en desarrollo con .NET Xamarin y soluciones web. Soy un desarrollador Full Stack y me estoy especializando en Ciencia de Datos. Resido en Arica, Chile.",
     "location": {
       "address": "Esteban Alvarado 109",
@@ -192,6 +192,11 @@
       "name": "React",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": ["Frontend", "JavaScript Library", "Mobile", "UI"]
     },
     {
       "name": "Docker",

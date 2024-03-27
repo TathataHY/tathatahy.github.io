@@ -273,7 +273,12 @@
       "name": "Atsa Airlines",
       "isActive": true,
       "description": "Plataforma de venta de boletos de vuelo.",
-      "highlights": ["Venta de boletos de vuelo"],
+      "highlights": [
+        ".NET",
+        "SQL Server",
+        "C#",
+        "Web APIs"
+      ],
       "url": "https://www.atsaairlines.com/"
     },
     {
@@ -281,8 +286,11 @@
       "isActive": true,
       "description": "Sistema de bitácoras de vuelo para aviones.",
       "highlights": [
-        "Registro de bitácoras de vuelo",
-        "Disponible en múltiples idiomas"
+        ".NET",
+        "Xamarin",
+        "C#",
+        "SQLite",
+        "SQL Server"
       ],
       "url": "https://apps.apple.com/us/app/eftr-starperu/id1640129105"
     },
@@ -291,8 +299,10 @@
       "isActive": true,
       "description": "Sistema automatizado para recopilar datos de farmacias desde sitios web.",
       "highlights": [
-        "Recopilación automatizada de datos",
-        "Extracción de información de múltiples fuentes"
+        "Java",
+        "Selenium",
+        ".NET Web APIs",
+        "Linux"
       ],
       "url": ""
     },
@@ -301,9 +311,10 @@
       "isActive": true,
       "description": "Sistema de escritorio para la gestión de vuelos charter de ATSA Airlines, incluyendo reservas, check-in y valorizaciones de vuelos.",
       "highlights": [
-        "Gestión integral de vuelos charter",
-        "Funciones de reservas y check-in",
-        "Generación de valorizaciones de vuelos"
+        ".NET",
+        "C#",
+        "DevExpress",
+        "SQL Server"
       ],
       "url": ""
     },
@@ -311,7 +322,12 @@
       "name": "Vamo.Pe",
       "isActive": false,
       "description": "Aplicación tipo Indriver para mototaxis en Lima.",
-      "highlights": ["Servicio de mototaxis", "Operativo en Lima"],
+      "highlights": [
+        ".NET", 
+        "Xamarin",
+        "Google Maps",
+        "Firebase"
+      ],
       "url": ""
     },
     {

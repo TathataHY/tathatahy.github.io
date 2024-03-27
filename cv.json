@@ -239,11 +239,6 @@
         "C#",
         "ASP.NET"
       ]
-    },
-    {
-      "name": "Json",
-      "level": "Avanzado",
-      "keywords": ["JSON", "Backend"]
     }
   ],
   "languages": [
@@ -277,6 +272,7 @@
         ".NET",
         "SQL Server",
         "C#",
+        "ASP.NET",
         "Web APIs"
       ],
       "url": "https://www.atsaairlines.com/"

@@ -113,31 +113,11 @@
   ],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-    },
-    {
       "name": "JavaScript",
       "level": "Master",
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
+     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
@@ -148,37 +128,7 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
+      "name": "React/Next.js",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web",
@@ -189,35 +139,14 @@
       ]
     },
     {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-    },
-    {
       "name": "React Native",
       "level": "Avanzado",
       "keywords": ["Frontend", "JavaScript Library", "Mobile", "UI"]
     },
     {
-      "name": "Java",
+      "name": "Node.js",
       "level": "Avanzado",
-      "keywords": [
-        "Backend",
-        "Java",
-        "Spring Boot",
-        "Spring Security",
-        "Spring"
-      ]
-    },
-    {
-      "name": "Docker",
-      "level": "Avanzado",
-      "keywords": [
-        "Virtualización",
-        "Contenedores",
-        "Despliegue",
-        "Orquestación"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "Xamarin",
@@ -239,7 +168,64 @@
         "C#",
         "ASP.NET"
       ]
-    }
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend",
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "Spring"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend",
+        "Python",
+        "Django",
+        "Flask",
+        "API REST"
+      ]
+    },
+     {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+     {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Virtualización",
+        "Contenedores",
+        "Despliegue",
+        "Orquestación"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
   ],
   "languages": [
     {
@@ -298,7 +284,8 @@
         "Java",
         "Selenium",
         ".NET Web APIs",
-        "Linux"
+        "Linux",      
+        "Python"
       ],
       "url": ""
     },

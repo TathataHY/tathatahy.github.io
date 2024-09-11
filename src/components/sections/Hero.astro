@@ -1,13 +1,13 @@
 ---
-import { basics } from "@cv";
 import Section from "@/components/Section.astro";
+import GitHub from "@/icons/GitHub.astro";
+import LinkedIn from "@/icons/LinkedIn.astro";
 import Mail from "@/icons/Mail.astro";
 import Phone from "@/icons/Phone.astro";
-import X from "@/icons/X.astro";
-import LinkedIn from "@/icons/LinkedIn.astro";
-import GitHub from "@/icons/GitHub.astro";
 import Platzi from "@/icons/Platzi.astro";
 import WorldMap from "@/icons/WorldMap.astro";
+import X from "@/icons/X.astro";
+import { basics } from "@cv";
 
 const { name, label, image, location, profiles, phone, email } = basics;
 const { city, region } = location;
@@ -154,4 +154,11 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
     background: #eee;
     border: 1px solid #ddd;
   }
+
+  @media (max-width: 450px) {
+    figure {
+      padding-right: 50px;
+    }
+  }
+  
 </style>

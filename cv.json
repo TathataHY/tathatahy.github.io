@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Andre Huaman Yovera",
-    "label": "Desarrollador Full Stack con experiencia en desarrollo de aplicaciones web y móviles",
+    "label": "Ingeniero informático. Desarrollador Full Stack",
     "image": "https://c.wallhere.com/photos/1c/32/nikon_kyoto-408160.jpg!d",
     "email": "andre.yovera1@gmail.com",
     "phone": "+56 936159134",
     "url": "https://tathatahy.github.io/",
-    "summary": "Con 3 años de experiencia en desarrollo de software, especializado en .NET Xamarin y soluciones web. Apasionado por liderar equipos eficazmente y crear un entorno propicio para el éxito. En constante crecimiento, explorando el campo de la Ciencia de Datos.",
+    "summary": "Con 3 años de experiencia en desarrollo de software, especializado en soluciones móviles y soluciones web. Apasionado por liderar equipos eficazmente y crear un entorno propicio para el éxito. En constante crecimiento, explorando el campo de la Ciencia de Datos.",
     "location": {
-      "address": "Esteban Alvarado 109",
+      "address": "Poblacion Juan Noe Pasaje 15",
       "postalCode": "10000000",
       "city": "Arica",
       "countryCode": "CL",
@@ -22,7 +22,7 @@
       },
       {
         "network": "Platzi",
-        "username": "midudev",
+        "username": "tathata",
         "url": "https://platzi.com/p/Tathata/"
       },
       {
@@ -35,11 +35,11 @@
   "work": [
     {
       "name": "OneUp-I",
-      "position": "Ingeniero en informática",
+      "position": "Ingeniero informático",
       "url": "https://oneup-i.com/",
       "startDate": "2021-01-02",
       "endDate": null,
-      "summary": "Ingeniero en informática con experiencia en el desarrollo de soluciones en .NET para aplicaciones móviles, web y de escritorio. Además, he participado activamente en proyectos de desarrollo de sistemas en Java para web scraping.",
+      "summary": "Desarrollo soluciones en .NET para aplicaciones móviles, web y de escritorio. También he trabajado en proyectos de web scraping utilizando Java, optimizando procesos y mejorando la eficiencia de los sistemas.",
       "highlights": [
         "Desarrollo de soluciones en .NET para aplicaciones móviles, web y de escritorio",
         "Participación en el desarrollo de sistemas en Java para web scraping"
@@ -47,11 +47,11 @@
     },
     {
       "name": "RyM Ingenieros",
-      "position": "Desarrollador móvil Xamarin",
+      "position": "Ingeniero informático",
       "url": "https://www.rym.com.pe/",
       "startDate": "2022-12-01",
       "endDate": "2023-08-01",
-      "summary": "Me centré en el desarrollo de aplicaciones móviles, especialmente en la integración y uso de Google Maps para aplicaciones tipo Indriver para mototaxis en Lima.",
+      "summary": "Me especialicé en el desarrollo de aplicaciones móviles, con un enfoque en la integración y utilización de Google Maps para aplicaciones de transporte, como Indriver, destinadas a mototaxis en Lima.",
       "highlights": ["Started the company"]
     }
   ],
@@ -149,16 +149,6 @@
       "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
-      "name": "Xamarin",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo de aplicaciones móviles",
-        ".NET",
-        "C#",
-        "Multiplataforma"
-      ]
-    },
-    {
       "name": ".NET",
       "level": "Avanzado",
       "keywords": [
@@ -167,6 +157,16 @@
         "Desarrollo de aplicaciones",
         "C#",
         "ASP.NET"
+      ]
+    },
+    {
+      "name": "MAUI (Xamarin)",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo de aplicaciones móviles",
+        ".NET",
+        "C#",
+        "Multiplataforma"
       ]
     },
     {
@@ -248,35 +248,35 @@
       "name": "Atsa Airlines",
       "isActive": true,
       "description": "Plataforma de venta de boletos de vuelo.",
-      "highlights": [".NET", "SQL Server", "C#", "ASP.NET", "Web APIs"],
+      "highlights": [".NET", "ASP.NET", "C#", "Web APIs", "SQL Server"],
       "url": "https://www.atsaairlines.com/"
     },
     {
       "name": "eFTR StarPeru",
       "isActive": true,
       "description": "Sistema de bitácoras de vuelo para aviones.",
-      "highlights": [".NET", "Xamarin", "C#", "SQLite", "SQL Server"],
+      "highlights": [".NET", "MAUI", "C#", "SQLite", "SQL Server"],
       "url": "https://apps.apple.com/us/app/eftr-starperu/id1640129105"
     },
     {
       "name": "Sistema de Web Scraping para Datos de Farmacias",
       "isActive": true,
       "description": "Sistema automatizado para recopilar datos de farmacias desde sitios web.",
-      "highlights": ["Java", "Selenium", ".NET Web APIs", "Linux", "Python"],
+      "highlights": [".NET", "Web API", "C#", "Python", "Java", "Selenium", "Linux"],
       "url": ""
     },
     {
       "name": "App Charter ATSA Airlines",
       "isActive": true,
       "description": "Sistema de escritorio para la gestión de vuelos charter de ATSA Airlines, incluyendo reservas, check-in y valorizaciones de vuelos.",
-      "highlights": [".NET", "C#", "DevExpress", "SQL Server"],
+      "highlights": [".NET", "Web Forms", "C#", "DevExpress", "SQL Server"],
       "url": ""
     },
     {
       "name": "Vamo.Pe",
       "isActive": false,
       "description": "Aplicación tipo Indriver para mototaxis en Lima.",
-      "highlights": [".NET", "Xamarin", "Google Maps", "Firebase"],
+      "highlights": [".NET", "MAUI", "C#", "Google Maps", "Firebase"],
       "url": "https://play.google.com/store/apps/details?id=com.rymingenieros.mototaki"
     },
     {

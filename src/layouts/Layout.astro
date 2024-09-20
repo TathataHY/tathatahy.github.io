@@ -22,7 +22,7 @@ const { title } = Astro.props;
     <!-- Script para detectar el modo del sistema operativo -->
     <script>
       // Función para aplicar el tema basado en la preferencia del sistema
-      const applySystemTheme = (e) => {
+      const applySystemTheme = (e: MediaQueryListEvent) => {
         if (e.matches) {
           document.body.classList.add('dark');
         } else {
@@ -32,7 +32,7 @@ const { title } = Astro.props;
 
       // Escuchar cambios en la preferencia del sistema
       const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-      mediaQuery.addListener(applySystemTheme);
+      mediaQuery.addEventListener('change', applySystemTheme);
 
       // Aplicar el tema al cargar la página
       if (mediaQuery.matches) {

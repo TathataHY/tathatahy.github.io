@@ -1,11 +1,14 @@
 ---
 import Section from "@/components/Section.astro";
+import { getLangFromUrl } from "@/i18n/utils";
+import { loadCV } from "@/i18n/loadCV";
 
-import { basics } from "@cv";
-const { summary } = basics;
+const lang = getLangFromUrl(Astro.url);
+const cv = loadCV(lang);
+const { summary } = cv.basics;
 ---
 
-<Section title="Sobre mí">
+<Section title={lang === "en" ? "About me" : "Sobre mí"}>
   <p>
     {summary}
   </p>

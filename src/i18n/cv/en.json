@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Andre Huaman Yovera",
-    "label": "Ingeniero Informático | Desarrollador Full Stack",
+    "label": "Computer Engineer | Full Stack Developer",
     "image": "https://c.wallhere.com/photos/1c/32/nikon_kyoto-408160.jpg!d",
     "email": "andre.yovera1@gmail.com",
     "phone": "+56 936159134",
     "url": "https://tathatahy.github.io/",
-    "summary": "Soy un ingeniero informático apasionado por crear soluciones eficientes. Me especializo en desarrollo web y móvil con 3 años de experiencia, orientado a resultados. Mi enfoque es optimizar procesos y liderar equipos hacia el éxito. Busco generar un impacto positivo en cada proyecto.",
+    "summary": "I am a computer engineer passionate about creating efficient solutions. I specialize in web and mobile development with 3 years of experience, results-oriented. My focus is on optimizing processes and leading teams to success. I seek to generate a positive impact on each project.",
     "location": {
       "address": "Poblacion Juan Noe Pasaje 15",
       "postalCode": "10000000",
@@ -35,23 +35,23 @@
   "work": [
     {
       "name": "ONEUP",
-      "position": "Ingeniero informático",
+      "position": "Computer Engineer",
       "url": "https://oneup-i.com/",
       "startDate": "2021-01-02",
       "endDate": null,
-      "summary": "Desarrollo soluciones en .NET para aplicaciones móviles, web y de escritorio. También he trabajado en proyectos de web scraping utilizando Java, optimizando procesos y mejorando la eficiencia de los sistemas.",
+      "summary": "I develop .NET solutions for mobile, web, and desktop applications. I have also worked on web scraping projects using Java, optimizing processes and improving system efficiency.",
       "highlights": [
-        "Desarrollo de soluciones en .NET para aplicaciones móviles, web y de escritorio",
-        "Participación en el desarrollo de sistemas en Java para web scraping"
+        "Development of .NET solutions for mobile, web, and desktop applications",
+        "Participation in Java systems development for web scraping"
       ]
     },
     {
       "name": "R y M Ingenieros SAC",
-      "position": "Ingeniero informático",
+      "position": "Computer Engineer",
       "url": "https://www.rym.com.pe/",
       "startDate": "2022-12-01",
       "endDate": "2023-08-01",
-      "summary": "Me especialicé en el desarrollo de aplicaciones móviles, con un enfoque en la integración y utilización de Google Maps para aplicaciones de transporte, como Indriver, destinadas a mototaxis en Lima.",
+      "summary": "I specialized in mobile application development, focusing on integrating and using Google Maps for transportation applications, like Indriver, designed for motorcycle taxis in Lima.",
       "highlights": ["Started the company"]
     }
   ],
@@ -62,16 +62,16 @@
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Description…",
+      "summary": "Description...",
       "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [
     {
-      "institution": "Universidad Santo Tomás",
+      "institution": "Santo Tomás University",
       "url": "https://www.ipsantotomas.cl/carreras/ingenieria-en-informatica/",
-      "area": "Ingeniería en Informática",
-      "studyType": "Ingeniería",
+      "area": "Computer Engineering",
+      "studyType": "Engineering",
       "startDate": "2020-01-02",
       "endDate": "2023-01-02",
       "score": "6.0",
@@ -79,8 +79,8 @@
     },
     {
       "institution": "Platzi",
-      "area": "Tecnología y Desarrollo",
-      "studyType": "Cursos en línea",
+      "area": "Technology and Development",
+      "studyType": "Online Courses",
       "startDate": "2021-01-02",
       "endDate": null,
       "url": "https://platzi.com/p/Tathata/"
@@ -108,20 +108,20 @@
       "publisher": "Company",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
-      "summary": "Description…"
+      "summary": "Description..."
     }
   ],
   "skills": [
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "Backend",
         "JavaScript Superset"
@@ -129,9 +129,9 @@
     },
     {
       "name": "React/Next.js",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "React Framework",
         "SSR",
@@ -140,38 +140,38 @@
     },
     {
       "name": "React Native",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": ["Frontend", "JavaScript Library", "Mobile", "UI"]
     },
     {
       "name": "Node.js",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": ".NET",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Framework de desarrollo",
+        "Development Framework",
         "Backend",
-        "Desarrollo de aplicaciones",
+        "Application Development",
         "C#",
         "ASP.NET"
       ]
     },
     {
       "name": "MAUI (Xamarin)",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo de aplicaciones móviles",
+        "Mobile Application Development",
         ".NET",
         "C#",
-        "Multiplataforma"
+        "Cross-platform"
       ]
     },
     {
       "name": "Java",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
         "Backend",
         "Java",
@@ -182,42 +182,42 @@
     },
     {
       "name": "Python",
-      "level": "Avanzado",
-      "keywords": ["Backend", "Python", "Django", "Flask", "API REST"]
+      "level": "Advanced",
+      "keywords": ["Backend", "Python", "Django", "Flask", "REST API"]
     },
     {
       "name": "SQL",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Bases de Datos",
+        "Databases",
         "SQL",
-        "Almacenamiento de Datos",
+        "Data Storage",
         "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "Docker",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Virtualización",
-        "Contenedores",
-        "Despliegue",
-        "Orquestación"
+        "Virtualization",
+        "Containers",
+        "Deployment",
+        "Orchestration"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "CSS Framework",
-        "Diseño Responsive"
+        "Responsive Design"
       ]
     }
   ],
@@ -240,52 +240,52 @@
   "references": [
     {
       "name": "Jane Doe",
-      "reference": "Reference…"
+      "reference": "Reference..."
     }
   ],
   "projects": [
     {
       "name": "Atsa Airlines",
       "isActive": true,
-      "description": "Plataforma de venta de boletos de vuelo.",
+      "description": "Flight ticket sales platform.",
       "highlights": [".NET", "ASP.NET", "C#", "Web APIs", "SQL Server"],
       "url": "https://www.atsaairlines.com/"
     },
     {
       "name": "eFTR StarPeru",
       "isActive": true,
-      "description": "Sistema de bitácoras de vuelo para aviones.",
+      "description": "Flight logbook system for aircraft.",
       "highlights": [".NET", "MAUI", "C#", "SQLite", "SQL Server"],
       "url": "https://apps.apple.com/us/app/eftr-starperu/id1640129105"
     },
     {
-      "name": "Sistema de Web Scraping para Datos de Farmacias",
+      "name": "Pharmacy Data Web Scraping System",
       "isActive": true,
-      "description": "Sistema automatizado para recopilar datos de farmacias desde sitios web.",
+      "description": "Automated system for collecting pharmacy data from websites.",
       "highlights": [".NET", "Web API", "C#", "Python", "Java", "Selenium", "Linux"],
       "url": ""
     },
     {
       "name": "App Charter ATSA Airlines",
       "isActive": true,
-      "description": "Sistema de escritorio para la gestión de vuelos charter de ATSA Airlines, incluyendo reservas, check-in y valorizaciones de vuelos.",
+      "description": "Desktop system for managing ATSA Airlines charter flights, including reservations, check-in, and flight valuations.",
       "highlights": [".NET", "Web Forms", "C#", "DevExpress", "SQL Server"],
       "url": ""
     },
     {
       "name": "Vamo.Pe",
       "isActive": false,
-      "description": "Aplicación tipo Indriver para mototaxis en Lima.",
+      "description": "Indriver-like application for motorcycle taxis in Lima.",
       "highlights": [".NET", "MAUI", "C#", "Google Maps", "Firebase"],
       "url": "https://play.google.com/store/apps/details?id=com.rymingenieros.mototaki"
     },
     {
       "name": "Platzi",
       "isActive": true,
-      "description": "Plataforma educativa en línea para el aprendizaje de diversas habilidades tecnológicas y profesionales.",
+      "description": "Online educational platform for learning various technological and professional skills.",
       "highlights": [
-        "Amplia variedad de cursos y especializaciones",
-        "Enfoque en desarrollo web, ciencia de datos y más"
+        "Wide variety of courses and specializations",
+        "Focus on web development, data science, and more"
       ],
       "url": "https://platzi.com"
     }

@@ -1,0 +1,60 @@
+---
+import { languages } from '../i18n/ui';
+---
+
+<ul>
+  {Object.entries(languages).map(([lang, label]) => (
+    <li>
+      <a 
+        href={`/${lang === 'es' ? '' : lang}`}
+        class:list={[
+          'language-link'
+        ]}
+      >
+        {label}
+      </a>
+    </li>
+  ))}
+</ul>
+
+<style>
+  ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .language-link {
+    text-decoration: none;
+    color: #666;
+    background-color: #ffffff50;
+    backdrop-filter: blur(8px);
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    transition: all 0.3s ease;
+    border: 1px solid #ddd;
+  }
+
+  .language-link:hover {
+    background-color: #fff;
+    color: #000;
+    border-color: #ccc;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .language-link {
+      background-color: #20202050;
+      color: #9f9f9f;
+      border-color: #333;
+    }
+
+    .language-link:hover {
+      background-color: #202020;
+      color: #fff;
+      border-color: #444;
+    }
+  }
+</style> 

@@ -1,23 +1,22 @@
 ---
 import Section from "@/components/Section.astro";
+import { getLangFromUrl } from '@/i18n/utils';
+import { loadCV } from '@/i18n/loadCV';
 
-import { projects } from "@cv";
+const lang = getLangFromUrl(Astro.url);
+const cv = loadCV(lang);
 ---
 
-<Section title="Proyectos">
+<Section title={lang === 'en' ? 'Projects' : 'Proyectos'}>
   <ul>
     {
-      projects.map(({ url, description, highlights, name, isActive }) => {
+      cv.projects.map(({ url, description, highlights, name, isActive }) => {
         return (
           <li>
             <article>
               <header>
                 <h3>
-                  <a
-                    href={url}
-                    title={`Ver el proyecto ${name}`}
-                    target="_blank"
-                  >
+                  <a href={url} title={lang === 'en' ? `View project ${name}` : `Ver el proyecto ${name}`} target="_blank">
                     {name}
                   </a>
                   {isActive && <span>&bull;</span>}
@@ -25,9 +24,9 @@ import { projects } from "@cv";
                 <p>{description}</p>
               </header>
               <footer>
-                {highlights.map((highlight) => {
-                  return <span>{highlight}</span>;
-                })}
+                {highlights.map((highlight) => (
+                  <span>{highlight}</span>
+                ))}
               </footer>
             </article>
           </li>

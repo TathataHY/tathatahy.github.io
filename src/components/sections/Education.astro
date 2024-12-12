@@ -1,16 +1,20 @@
 ---
 import Section from "@/components/Section.astro";
+import { loadCV } from "@/i18n/loadCV";
+import { getLangFromUrl } from "@/i18n/utils";
 
-import { education } from "@cv";
+const lang = getLangFromUrl(Astro.url);
+const cv = loadCV(lang);
+const { education } = cv;
 ---
 
-<Section title="Educación">
+<Section title={lang === "en" ? "Education" : "Educación"}>
   <ul>
     {
       education.map(({ institution, startDate, endDate, area, url }) => {
         const startYear = new Date(startDate).getFullYear();
         const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual";
+          endDate != null ? new Date(endDate).getFullYear() : lang === "en" ? "Present" : "Actual";
         const years = `${startYear} - ${endYear}`;
 
         return (
@@ -19,13 +23,17 @@ import { education } from "@cv";
               <header>
                 <div>
                   <h3>
-                    <a href={url} title={`Ver la institución ${institution}`} target="_blank">{institution}</a>
+                    <a 
+                      href={url} 
+                      title={lang === "en" ? `View institution ${institution}` : `Ver la institución ${institution}`} 
+                      target="_blank"
+                    >
+                      {institution}
+                    </a>
                   </h3>
                 </div>
-
                 <time>{years}</time>
               </header>
-
               <footer>
                 <p>{area}</p>
               </footer>

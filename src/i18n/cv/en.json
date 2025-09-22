@@ -4,9 +4,9 @@
     "label": "Computer Engineer | Full Stack Developer",
     "image": "https://c.wallhere.com/photos/1c/32/nikon_kyoto-408160.jpg!d",
     "email": "andre.yovera1@gmail.com",
-    "phone": "+56 936159134",
+    "phone": "+56 985086050",
     "url": "https://tathatahy.github.io/",
-    "summary": "I am a computer engineer passionate about creating efficient solutions. I specialize in web and mobile development with 3 years of experience, results-oriented. My focus is on optimizing processes and leading teams to success. I seek to generate a positive impact on each project.",
+    "summary": "I am a Software Engineer with 4 years of professional experience in developing technological solutions, specialized in .NET, clean architectures and automated testing. During this time I have worked in more than 5 software companies and currently develop end-to-end systems applying good architecture, testing and deployment practices. I am passionate about research and the challenge of applying emerging technologies such as artificial intelligence, cybersecurity, blockchain and data science.",
     "location": {
       "address": "Poblacion Juan Noe Pasaje 15",
       "postalCode": "10000000",
@@ -34,38 +34,77 @@
   },
   "work": [
     {
+      "name": "R y M Ingenieros SAC",
+      "position": "Senior Software Engineer | Mobile and Web Systems Development",
+      "url": "https://www.rym.com.pe/",
+      "startDate": "2025-09-01",
+      "endDate": null,
+      "summary": "Currently leading the development of technological solutions for RYM Engineers, covering projects in Peru and Panama. Complete development of Uber-like mobile application for motorcycle taxis in Peru, using .NET MAUI and Xamarin, including scalable architecture design, intuitive interfaces, geolocation, maps and route and fare algorithms.",
+      "highlights": [
+        "Complete development of Uber-like mobile application for motorcycle taxis in Peru",
+        "Research and development of systems for the hotel sector in Panama",
+        "Design and development of systems for the shipping and port sector in Panama",
+        "Comprehensive technological project management with agile methodologies"
+      ]
+    },
+    {
+      "name": "AmazonTI",
+      "position": "Software Engineer",
+      "url": "https://amazonti.com/",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "As a Software Engineer at AmazonTI, I lead development initiatives within a company specialized in IT infrastructure. Development of web, mobile and desktop applications to complement the company's infrastructure services.",
+      "highlights": [
+        "Development of web, mobile and desktop applications",
+        "Implementation of customized software solutions for corporate clients",
+        "Creation of data analysis and web scraping tools",
+        "Participation in the expansion of the software development division"
+      ]
+    },
+    {
+      "name": "EVENTECH SpA",
+      "position": "Partner & Technology Director",
+      "url": "https://eventech.cl/",
+      "startDate": "2024-10-01",
+      "endDate": "2025-03-01",
+      "summary": "I led the technology strategy and actively participated in software development as a technology consultant. Planning and architecture of comprehensive technological solutions, implementation of solutions based on artificial intelligence and data science.",
+      "highlights": [
+        "Planning and architecture of comprehensive technological solutions",
+        "Implementation of solutions based on artificial intelligence and data science",
+        "Cybersecurity and ethical hacking services for companies",
+        "Creation of innovative technological products for CORFO and SERCOTEC fund applications"
+      ]
+    },
+    {
       "name": "ONEUP",
-      "position": "Computer Engineer",
+      "position": "Software Engineer",
       "url": "https://oneup-i.com/",
       "startDate": "2021-01-02",
       "endDate": null,
-      "summary": "I develop .NET solutions for mobile, web, and desktop applications. I have also worked on web scraping projects using Java, optimizing processes and improving system efficiency.",
+      "summary": "I participated in the development of comprehensive technological solutions for important companies in the aviation and retail sector. Development of web, mobile and desktop applications using .NET, PHP and ASP.NET technologies.",
       "highlights": [
-        "Development of .NET solutions for mobile, web, and desktop applications",
-        "Participation in Java systems development for web scraping"
+        "Development of web, mobile and desktop applications using .NET, PHP and ASP.NET technologies",
+        "Implementation of e-commerce systems for airline ticket sales",
+        "Development of web scraping solutions for strategic data collection",
+        "Integration with SAP systems for business management"
       ]
     },
     {
       "name": "R y M Ingenieros SAC",
-      "position": "Computer Engineer",
+      "position": "Software Engineer",
       "url": "https://www.rym.com.pe/",
-      "startDate": "2022-12-01",
-      "endDate": "2023-08-01",
-      "summary": "I specialized in mobile application development, focusing on integrating and using Google Maps for transportation applications, like Indriver, designed for motorcycle taxis in Lima.",
-      "highlights": ["Started the company"]
+      "startDate": "2023-01-01",
+      "endDate": "2023-09-01",
+      "summary": "As a Software Engineer at RYM, I led the development of an innovative Uber-like mobile application for motorcycle taxis in Peru, representing the company's first significant technological project.",
+      "highlights": [
+        "Complete development of mobile application using .NET MAUI (Xamarin) technologies",
+        "Design and implementation of scalable software architecture",
+        "Integration of geolocation and mapping systems",
+        "Development of algorithms for route and fare calculation"
+      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description...",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Santo Tomás University",
@@ -86,35 +125,81 @@
       "url": "https://platzi.com/p/Tathata/"
     }
   ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "date": "2022-06-01",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/993368855"
+    },
     {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description..."
+      "name": "Multi-platform App Development with Xamarin",
+      "date": "2022-12-01",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/Tathata/"
     }
   ],
+  "publications": [],
   "skills": [
     {
-      "name": "JavaScript",
+      "name": ".NET",
       "level": "Master",
+      "keywords": [
+        "Development Framework",
+        "Backend",
+        "Application Development",
+        "C#",
+        "ASP.NET Core",
+        ".NET 8/9"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Master",
+      "keywords": [
+        "Programming Language",
+        "Backend",
+        "Application Development",
+        "OOP",
+        "Async/Await"
+      ]
+    },
+    {
+      "name": "MAUI (Xamarin)",
+      "level": "Advanced",
+      "keywords": [
+        "Mobile Application Development",
+        ".NET",
+        "C#",
+        "Cross-platform"
+      ]
+    },
+    {
+      "name": "Blazor",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "C#",
+        "WebAssembly",
+        "Server-side"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "TypeScript",
+        "Framework",
+        "SPA"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
       "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
@@ -129,7 +214,7 @@
     },
     {
       "name": "React/Next.js",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -139,34 +224,19 @@
       ]
     },
     {
-      "name": "React Native",
-      "level": "Advanced",
-      "keywords": ["Frontend", "JavaScript Library", "Mobile", "UI"]
-    },
-    {
       "name": "Node.js",
       "level": "Advanced",
       "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
-      "name": ".NET",
+      "name": "NestJS",
       "level": "Advanced",
       "keywords": [
-        "Development Framework",
         "Backend",
-        "Application Development",
-        "C#",
-        "ASP.NET"
-      ]
-    },
-    {
-      "name": "MAUI (Xamarin)",
-      "level": "Advanced",
-      "keywords": [
-        "Mobile Application Development",
-        ".NET",
-        "C#",
-        "Cross-platform"
+        "Node.js",
+        "TypeScript",
+        "Framework",
+        "REST API"
       ]
     },
     {
@@ -183,16 +253,50 @@
     {
       "name": "Python",
       "level": "Advanced",
-      "keywords": ["Backend", "Python", "Django", "Flask", "REST API"]
+      "keywords": ["Backend", "Python", "Django", "Flask", "REST API", "Data Science"]
     },
     {
-      "name": "SQL",
+      "name": "SQL Server",
       "level": "Advanced",
       "keywords": [
         "Databases",
         "SQL",
         "Data Storage",
-        "Backend"
+        "Backend",
+        "Entity Framework"
+      ]
+    },
+    {
+      "name": "Entity Framework Core",
+      "level": "Advanced",
+      "keywords": [
+        "ORM",
+        "Databases",
+        ".NET",
+        "C#",
+        "Code First"
+      ]
+    },
+    {
+      "name": "Clean Architecture",
+      "level": "Advanced",
+      "keywords": [
+        "Software Architecture",
+        "Design Patterns",
+        "SOLID",
+        "CQRS",
+        "DDD"
+      ]
+    },
+    {
+      "name": "Automated Testing",
+      "level": "Advanced",
+      "keywords": [
+        "Testing",
+        "xUnit",
+        "Moq",
+        "TDD",
+        "Unit Testing"
       ]
     },
     {
@@ -211,13 +315,13 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Advanced",
+      "name": "Azure",
+      "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
+        "Cloud Computing",
+        "Microsoft Azure",
+        "Cloud Services",
+        "DevOps"
       ]
     }
   ],
@@ -233,61 +337,82 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
+      "name": "Emerging Technologies",
+      "keywords": ["Artificial Intelligence", "Cybersecurity", "Blockchain", "Data Science"]
+    },
     {
-      "name": "Jane Doe",
-      "reference": "Reference..."
+      "name": "Software Development",
+      "keywords": ["Clean Architecture", "Automated Testing", "DevOps", "Cloud Computing"]
     }
   ],
+  "references": [],
   "projects": [
+    {
+      "name": "RestaurantePro - Comprehensive Restaurant Management System",
+      "isActive": true,
+      "description": "Complete restaurant management system developed with modern Microsoft technologies (.NET 9). Includes 3 specialized applications: mobile app (.NET MAUI), administrative web (Blazor) and public web (Blazor).",
+      "highlights": [
+        ".NET 9",
+        "MAUI",
+        "Blazor",
+        "Clean Architecture",
+        "CQRS",
+        "SignalR",
+        "SQL Server",
+        "JWT"
+      ],
+      "url": ""
+    },
+    {
+      "name": "VetCarePro - Comprehensive Veterinary Management System",
+      "isActive": true,
+      "description": "Enterprise system for comprehensive veterinary clinic management, focused on optimizing processes and improving the experience of both medical staff and clients. Includes patient management, inventory control, automatic reminders and integrated POS.",
+      "highlights": [
+        ".NET 8",
+        "WinUI 3",
+        "Entity Framework Core",
+        "SQL Server",
+        "MVVM",
+        "xUnit",
+        "Moq"
+      ],
+      "url": "https://lnkd.in/d48d_2cH"
+    },
     {
       "name": "Atsa Airlines",
       "isActive": true,
-      "description": "Flight ticket sales platform.",
+      "description": "Flight ticket sales platform with complete e-commerce system.",
       "highlights": [".NET", "ASP.NET", "C#", "Web APIs", "SQL Server"],
       "url": "https://www.atsaairlines.com/"
     },
     {
       "name": "eFTR StarPeru",
       "isActive": true,
-      "description": "Flight logbook system for aircraft.",
+      "description": "Aircraft flight logbook system with native mobile application.",
       "highlights": [".NET", "MAUI", "C#", "SQLite", "SQL Server"],
       "url": "https://apps.apple.com/us/app/eftr-starperu/id1640129105"
     },
     {
-      "name": "Pharmacy Data Web Scraping System",
-      "isActive": true,
-      "description": "Automated system for collecting pharmacy data from websites.",
-      "highlights": [".NET", "Web API", "C#", "Python", "Java", "Selenium", "Linux"],
-      "url": ""
-    },
-    {
-      "name": "App Charter ATSA Airlines",
-      "isActive": true,
-      "description": "Desktop system for managing ATSA Airlines charter flights, including reservations, check-in, and flight valuations.",
-      "highlights": [".NET", "Web Forms", "C#", "DevExpress", "SQL Server"],
-      "url": ""
-    },
-    {
-      "name": "Vamo.Pe",
+      "name": "Vamo.Pe - Motorcycle Taxi Application",
       "isActive": false,
-      "description": "Indriver-like application for motorcycle taxis in Lima.",
+      "description": "Uber-like application for motorcycle taxis in Lima with geolocation, maps and route and fare algorithms.",
       "highlights": [".NET", "MAUI", "C#", "Google Maps", "Firebase"],
       "url": "https://play.google.com/store/apps/details?id=com.rymingenieros.mototaki"
     },
     {
-      "name": "Platzi",
+      "name": "Pharmacy Data Web Scraping System",
       "isActive": true,
-      "description": "Online educational platform for learning various technological and professional skills.",
+      "description": "Automated system for collecting pharmacy data from websites with data analysis.",
       "highlights": [
-        "Wide variety of courses and specializations",
-        "Focus on web development, data science, and more"
+        ".NET",
+        "Web API",
+        "C#",
+        "Python",
+        "Java",
+        "Selenium",
+        "Linux"
       ],
-      "url": "https://platzi.com"
+      "url": ""
     }
   ]
 }

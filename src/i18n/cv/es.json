@@ -6,11 +6,11 @@
     "email": "andre.yovera1@gmail.com",
     "phone": "+56 985086050",
     "url": "https://tathatahy.github.io/",
-    "summary": "Soy Ingeniero de Software con 4 años de experiencia profesional en el desarrollo de soluciones tecnológicas, especializado en .NET, arquitecturas limpias y pruebas automatizadas. Durante este tiempo he trabajado en más de 5 empresas de software y actualmente desarrollo sistemas de punta a punta aplicando buenas prácticas de arquitectura, testing y despliegue. Me apasiona la investigación y el desafío de aplicar tecnologías emergentes como inteligencia artificial, ciberseguridad, blockchain y ciencia de datos.",
+    "summary": "Soy Ingeniero de Software con 5 años de experiencia profesional en el desarrollo de soluciones tecnológicas, especializado en .NET, arquitecturas limpias y pruebas automatizadas. Durante este tiempo he trabajado en más de 5 empresas de software y actualmente desarrollo sistemas de punta a punta aplicando buenas prácticas de arquitectura, testing y despliegue. Me apasiona la investigación y el desafío de aplicar tecnologías emergentes como inteligencia artificial, ciberseguridad, blockchain y ciencia de datos.",
     "location": {
-      "address": "Poblacion Juan Noe Pasaje 15",
+      "address": "Dispuesto a reubicarse",
       "postalCode": "10000000",
-      "city": "Arica",
+      "city": "Santiago",
       "countryCode": "CL",
       "region": "Chile"
     },
@@ -39,9 +39,11 @@
       "url": "https://www.rym.com.pe/",
       "startDate": "2025-09-01",
       "endDate": null,
-      "summary": "Actualmente lidero el desarrollo de soluciones tecnológicas para RYM Ingenieros, abarcando proyectos en Perú y Panamá. Desarrollo completo de aplicación móvil tipo Uber para mototaxis en Perú, utilizando .NET MAUI y Xamarin, incluyendo diseño de arquitectura escalable, interfaces intuitivas, geolocalización, mapas y algoritmos de rutas y tarifas.",
+      "summary": "Actualmente lidero el desarrollo de soluciones tecnológicas para RYM Ingenieros, abarcando proyectos en Perú y Panamá. Desarrollo completo de aplicación móvil tipo Uber para mototaxis en Perú, utilizando .NET Core, .NET MAUI y Xamarin, incluyendo diseño de arquitectura escalable, interfaces intuitivas, geolocalización, mapas y algoritmos de rutas y tarifas. Desarrollo de APIs REST con .NET Core y Node.js para integración de servicios.",
       "highlights": [
-        "Desarrollo completo de aplicación móvil tipo Uber para mototaxis en Perú",
+        "Desarrollo completo de aplicación móvil tipo Uber para mototaxis en Perú usando .NET Core y .NET MAUI",
+        "Desarrollo de APIs REST con Node.js y .NET Core para integración de servicios",
+        "Implementación de soluciones Python para análisis de datos y algoritmos de rutas",
         "Investigación y desarrollo de sistemas para el sector hotelero en Panamá",
         "Diseño y desarrollo de sistemas para el sector naviero y portuario en Panamá",
         "Gestión de proyectos tecnológicos de manera integral con metodologías ágiles"
@@ -53,11 +55,12 @@
       "url": "https://amazonti.com/",
       "startDate": "2024-07-01",
       "endDate": null,
-      "summary": "Como Ingeniero de Software en AmazonTI, lidero iniciativas de desarrollo dentro de una empresa especializada en infraestructura IT. Desarrollo de aplicaciones web, móviles y de escritorio para complementar los servicios de infraestructura de la empresa.",
+      "summary": "Como Ingeniero de Software en AmazonTI, lidero iniciativas de desarrollo dentro de una empresa especializada en infraestructura IT. Desarrollo de aplicaciones web, móviles y de escritorio usando .NET Core, Node.js y Python para complementar los servicios de infraestructura de la empresa. Implementación de APIs REST y microservicios.",
       "highlights": [
-        "Desarrollo de aplicaciones web, móviles y de escritorio",
+        "Desarrollo de aplicaciones web, móviles y de escritorio usando .NET Core y Node.js",
+        "Implementación de APIs REST con Python (Flask/Django) y .NET Core",
         "Implementación de soluciones de software personalizadas para clientes corporativos",
-        "Creación de herramientas de análisis de datos y web scraping",
+        "Creación de herramientas de análisis de datos y web scraping con Python",
         "Participación en la expansión de la división de desarrollo de software"
       ]
     },
@@ -67,10 +70,11 @@
       "url": "https://eventech.cl/",
       "startDate": "2024-10-01",
       "endDate": "2025-03-01",
-      "summary": "Lideré la estrategia tecnológica y participé activamente en el desarrollo de software como consultora tecnológica. Planificación y arquitectura de soluciones tecnológicas integrales, implementación de soluciones basadas en inteligencia artificial y ciencia de datos.",
+      "summary": "Lideré la estrategia tecnológica y participé activamente en el desarrollo de software como consultora tecnológica. Planificación y arquitectura de soluciones tecnológicas integrales usando .NET Core, Node.js y Python. Implementación de soluciones basadas en inteligencia artificial y ciencia de datos con Python y APIs REST.",
       "highlights": [
-        "Planificación y arquitectura de soluciones tecnológicas integrales",
-        "Implementación de soluciones basadas en inteligencia artificial y ciencia de datos",
+        "Planificación y arquitectura de soluciones tecnológicas integrales usando .NET Core, Node.js y Python",
+        "Implementación de soluciones basadas en inteligencia artificial y ciencia de datos con Python",
+        "Desarrollo de APIs REST con .NET Core y Node.js para integración de servicios",
         "Servicios de ciberseguridad y hacking ético para empresas",
         "Creación de productos tecnológicos innovadores para postulación a fondos CORFO y SERCOTEC"
       ]
@@ -81,11 +85,12 @@
       "url": "https://oneup-i.com/",
       "startDate": "2021-01-02",
       "endDate": null,
-      "summary": "Participé en el desarrollo de soluciones tecnológicas integrales para importantes empresas del sector aéreo y retail. Desarrollo de aplicaciones web, móviles y de escritorio usando tecnologías .NET, PHP y ASP.NET.",
+      "summary": "Participé en el desarrollo de soluciones tecnológicas integrales para importantes empresas del sector aéreo y retail. Desarrollo de aplicaciones web, móviles y de escritorio usando .NET Core, Node.js, Python (Flask/Django) y ASP.NET. Implementación de APIs REST y microservicios.",
       "highlights": [
-        "Desarrollo de aplicaciones web, móviles y de escritorio usando tecnologías .NET, PHP y ASP.NET",
-        "Implementación de sistemas de e-commerce para venta de tickets aéreos",
-        "Desarrollo de soluciones de web scraping para recolección de datos estratégicos",
+        "Desarrollo de aplicaciones web, móviles y de escritorio usando .NET Core, Node.js, Python y ASP.NET",
+        "Implementación de APIs REST con .NET Core y Node.js para sistemas de e-commerce",
+        "Desarrollo de soluciones de web scraping con Python para recolección de datos estratégicos",
+        "Implementación de microservicios con Python (Flask/Django) y .NET Core",
         "Integración con sistemas SAP para gestión empresarial"
       ]
     },
@@ -95,12 +100,13 @@
       "url": "https://www.rym.com.pe/",
       "startDate": "2023-01-01",
       "endDate": "2023-09-01",
-      "summary": "Como Ingeniero de Software en RYM, lideré el desarrollo de una innovadora aplicación móvil tipo Uber para mototaxis en Perú, representando el primer proyecto tecnológico significativo de la empresa.",
+      "summary": "Como Ingeniero de Software en RYM, lideré el desarrollo de una innovadora aplicación móvil tipo Uber para mototaxis en Perú usando .NET Core y .NET MAUI, representando el primer proyecto tecnológico significativo de la empresa. Desarrollo de APIs REST con Node.js y Python para integración de servicios.",
       "highlights": [
-        "Desarrollo completo de aplicación móvil utilizando tecnologías .NET MAUI (Xamarin)",
+        "Desarrollo completo de aplicación móvil utilizando .NET Core y .NET MAUI (Xamarin)",
+        "Desarrollo de APIs REST con Node.js y Python para integración de servicios",
         "Diseño e implementación de arquitectura de software escalable",
         "Integración de sistemas de geolocalización y mapas",
-        "Desarrollo de algoritmos para cálculo de rutas y tarifas"
+        "Desarrollo de algoritmos para cálculo de rutas y tarifas con Python"
       ]
     }
   ],
@@ -399,6 +405,19 @@
       "description": "Aplicación tipo Uber para mototaxis en Lima con geolocalización, mapas y algoritmos de rutas y tarifas.",
       "highlights": [".NET", "MAUI", "C#", "Google Maps", "Firebase"],
       "url": "https://play.google.com/store/apps/details?id=com.rymingenieros.mototaki"
+    },
+    {
+      "name": "Care4U - Aplicación de Diagnóstico Temprano con IA",
+      "isActive": true,
+      "description": "Aplicación móvil de salud que utiliza IA para diagnóstico temprano. Los usuarios ingresan síntomas y reciben sugerencias de especialistas médicos. Desarrollada con Python, Flask y React Native.",
+      "highlights": [
+        "Python",
+        "Flask",
+        "React Native",
+        "Inteligencia Artificial",
+        "Sector Salud"
+      ],
+      "url": ""
     },
     {
       "name": "Sistema de Web Scraping para Datos de Farmacias",

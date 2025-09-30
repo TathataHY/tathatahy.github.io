@@ -6,11 +6,11 @@
     "email": "andre.yovera1@gmail.com",
     "phone": "+56 985086050",
     "url": "https://tathatahy.github.io/",
-    "summary": "I am a Software Engineer with 5 years of professional experience in developing technological solutions, specialized in .NET, clean architectures and automated testing. During this time I have worked in more than 5 software companies and currently develop end-to-end systems applying good architecture, testing and deployment practices. I am passionate about research and the challenge of applying emerging technologies such as artificial intelligence, cybersecurity, blockchain and data science.",
+    "summary": "I am a Software Engineer with 4 years of professional experience in developing technological solutions, specialized in .NET, clean architectures and automated testing. During this time I have worked in more than 5 software companies and currently develop end-to-end systems applying good architecture, testing and deployment practices. I am passionate about research and the challenge of applying emerging technologies such as artificial intelligence, cybersecurity, blockchain and data science.",
     "location": {
-      "address": "Willing to relocate",
+      "address": "Poblacion Juan Noe Pasaje 15",
       "postalCode": "10000000",
-      "city": "Santiago",
+      "city": "Arica",
       "countryCode": "CL",
       "region": "Chile"
     },
@@ -39,11 +39,9 @@
       "url": "https://www.rym.com.pe/",
       "startDate": "2025-09-01",
       "endDate": null,
-      "summary": "Currently leading the development of technological solutions for RYM Engineers, covering projects in Peru and Panama. Complete development of Uber-like mobile application for motorcycle taxis in Peru, using .NET Core, .NET MAUI and Xamarin, including scalable architecture design, intuitive interfaces, geolocation, maps and route and fare algorithms. Development of REST APIs with .NET Core and Node.js for service integration.",
+      "summary": "Currently leading the development of technological solutions for RYM Engineers, covering projects in Peru and Panama. Complete development of Uber-like mobile application for motorcycle taxis in Peru, using .NET MAUI and Xamarin, including scalable architecture design, intuitive interfaces, geolocation, maps and route and fare algorithms.",
       "highlights": [
-        "Complete development of Uber-like mobile application for motorcycle taxis in Peru using .NET Core and .NET MAUI",
-        "Development of REST APIs with Node.js and .NET Core for service integration",
-        "Implementation of Python solutions for data analysis and route algorithms",
+        "Complete development of Uber-like mobile application for motorcycle taxis in Peru",
         "Research and development of systems for the hotel sector in Panama",
         "Design and development of systems for the shipping and port sector in Panama",
         "Comprehensive technological project management with agile methodologies"
@@ -55,12 +53,11 @@
       "url": "https://amazonti.com/",
       "startDate": "2024-07-01",
       "endDate": null,
-      "summary": "As a Software Engineer at AmazonTI, I lead development initiatives within a company specialized in IT infrastructure. Development of web, mobile and desktop applications using .NET Core, Node.js and Python to complement the company's infrastructure services. Implementation of REST APIs and microservices.",
+      "summary": "As a Software Engineer at AmazonTI, I lead development initiatives within a company specialized in IT infrastructure. Development of web, mobile and desktop applications to complement the company's infrastructure services.",
       "highlights": [
-        "Development of web, mobile and desktop applications using .NET Core and Node.js",
-        "Implementation of REST APIs with Python (Flask/Django) and .NET Core",
+        "Development of web, mobile and desktop applications",
         "Implementation of customized software solutions for corporate clients",
-        "Creation of data analysis and web scraping tools with Python",
+        "Creation of data analysis and web scraping tools",
         "Participation in the expansion of the software development division"
       ]
     },
@@ -70,11 +67,10 @@
       "url": "https://eventech.cl/",
       "startDate": "2024-10-01",
       "endDate": "2025-03-01",
-      "summary": "I led the technology strategy and actively participated in software development as a technology consultant. Planning and architecture of comprehensive technological solutions using .NET Core, Node.js and Python. Implementation of solutions based on artificial intelligence and data science with Python and REST APIs.",
+      "summary": "I led the technology strategy and actively participated in software development as a technology consultant. Planning and architecture of comprehensive technological solutions, implementation of solutions based on artificial intelligence and data science.",
       "highlights": [
-        "Planning and architecture of comprehensive technological solutions using .NET Core, Node.js and Python",
-        "Implementation of solutions based on artificial intelligence and data science with Python",
-        "Development of REST APIs with .NET Core and Node.js for service integration",
+        "Planning and architecture of comprehensive technological solutions",
+        "Implementation of solutions based on artificial intelligence and data science",
         "Cybersecurity and ethical hacking services for companies",
         "Creation of innovative technological products for CORFO and SERCOTEC fund applications"
       ]
@@ -85,12 +81,11 @@
       "url": "https://oneup-i.com/",
       "startDate": "2021-01-02",
       "endDate": null,
-      "summary": "I participated in the development of comprehensive technological solutions for important companies in the aviation and retail sector. Development of web, mobile and desktop applications using .NET Core, Node.js, Python (Flask/Django) and ASP.NET technologies. Implementation of REST APIs and microservices.",
+      "summary": "I participated in the development of comprehensive technological solutions for important companies in the aviation and retail sector. Development of web, mobile and desktop applications using .NET, PHP and ASP.NET technologies.",
       "highlights": [
-        "Development of web, mobile and desktop applications using .NET Core, Node.js, Python and ASP.NET",
-        "Implementation of REST APIs with .NET Core and Node.js for e-commerce systems",
-        "Development of web scraping solutions with Python for strategic data collection",
-        "Implementation of microservices with Python (Flask/Django) and .NET Core",
+        "Development of web, mobile and desktop applications using .NET, PHP and ASP.NET technologies",
+        "Implementation of e-commerce systems for airline ticket sales",
+        "Development of web scraping solutions for strategic data collection",
         "Integration with SAP systems for business management"
       ]
     },
@@ -100,13 +95,12 @@
       "url": "https://www.rym.com.pe/",
       "startDate": "2023-01-01",
       "endDate": "2023-09-01",
-      "summary": "As a Software Engineer at RYM, I led the development of an innovative Uber-like mobile application for motorcycle taxis in Peru using .NET Core and .NET MAUI, representing the company's first significant technological project. Development of REST APIs with Node.js and Python for service integration.",
+      "summary": "As a Software Engineer at RYM, I led the development of an innovative Uber-like mobile application for motorcycle taxis in Peru, representing the company's first significant technological project.",
       "highlights": [
-        "Complete development of mobile application using .NET Core and .NET MAUI (Xamarin) technologies",
-        "Development of REST APIs with Node.js and Python for service integration",
+        "Complete development of mobile application using .NET MAUI (Xamarin) technologies",
         "Design and implementation of scalable software architecture",
         "Integration of geolocation and mapping systems",
-        "Development of algorithms for route and fare calculation with Python"
+        "Development of algorithms for route and fare calculation"
       ]
     }
   ],
@@ -354,6 +348,23 @@
   "references": [],
   "projects": [
     {
+      "name": "HelpDesk System - Ticket Management and Technical Support",
+      "isActive": true,
+      "description": "Enterprise ticket management and helpdesk system developed with .NET 9. Implements Clean Architecture, DDD, CQRS and progressive versioning (V1/V2/V3). Includes ticket management with automatic workflow, IT inventory, knowledge base, executive dashboard with real-time metrics and JWT authentication.",
+      "highlights": [
+        ".NET 9",
+        "Blazor Server",
+        "Clean Architecture",
+        "CQRS",
+        "DDD",
+        "MediatR",
+        "SignalR",
+        "xUnit"
+      ],
+      "url": "https://lnkd.in/d48d_2cH",
+      "company": "AmazonTI"
+    },
+    {
       "name": "RestaurantePro - Comprehensive Restaurant Management System",
       "isActive": true,
       "description": "Complete restaurant management system developed with modern Microsoft technologies (.NET 9). Includes 3 specialized applications: mobile app (.NET MAUI), administrative web (Blazor) and public web (Blazor).",
@@ -367,7 +378,7 @@
         "SQL Server",
         "JWT"
       ],
-      "url": ""
+      "url": "https://lnkd.in/d48d_2cH"
     },
     {
       "name": "VetCarePro - Comprehensive Veterinary Management System",
@@ -404,19 +415,6 @@
       "description": "Uber-like application for motorcycle taxis in Lima with geolocation, maps and route and fare algorithms.",
       "highlights": [".NET", "MAUI", "C#", "Google Maps", "Firebase"],
       "url": "https://play.google.com/store/apps/details?id=com.rymingenieros.mototaki"
-    },
-    {
-      "name": "Care4U - Early Diagnosis App with AI",
-      "isActive": true,
-      "description": "Health mobile app using AI for early diagnosis. Users input symptoms and receive medical specialist suggestions. Developed with Python, Flask and React Native.",
-      "highlights": [
-        "Python",
-        "Flask",
-        "React Native",
-        "Artificial Intelligence",
-        "Healthcare Sector"
-      ],
-      "url": ""
     },
     {
       "name": "Pharmacy Data Web Scraping System",

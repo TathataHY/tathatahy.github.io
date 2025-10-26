@@ -4,7 +4,18 @@
     "label": "Computer Engineer | Full Stack Developer",
     "image": "/andre-huaman-foto.jpg",
     "email": "andre.yovera1@gmail.com",
-    "phone": "+56 985086050",
+    "phones": [
+      {
+        "number": "+56 985086050",
+        "country": "Chile",
+        "countryCode": "CL"
+      },
+      {
+        "number": "+51 922126520",
+        "country": "Peru",
+        "countryCode": "PE"
+      }
+    ],
     "url": "https://tathatahy.github.io/",
     "summary": "I am a Software Engineer with 6 years of professional experience in developing technological solutions, specialized in .NET, clean architectures and automated testing. During this time I have worked in more than 5 software companies and currently develop end-to-end systems applying good architecture, testing and deployment practices. I am passionate about research and the challenge of applying emerging technologies such as artificial intelligence, cybersecurity, blockchain and data science.",
     "location": {

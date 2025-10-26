@@ -18,11 +18,17 @@ interface Basics {
   label: string
   image: string
   email: string
-  phone: string
+  phones: Array<Phone>
   url: string
   summary: string
   location: Location
   profiles: Array<Profiles>
+}
+
+interface Phone {
+  number: string
+  country: string
+  countryCode: string
 }
 
 interface Location {
